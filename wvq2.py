@@ -17,7 +17,7 @@ bgs = [] #A list for the background fits
 ls = [] #A list of legends associated with the histograms
 
 def fitf(x, par):
-  sum1 = par[0]*math.exp(-0.5*((x[0]-par[1])/par[2])**2
+  sum1 = par[0]*math.exp(-0.5*((x[0]-par[1])/par[2])**2)
   l = len(par) 
   for i in range(3,l):
     sum1 += par[i]*x**(i-3)
