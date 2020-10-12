@@ -1,6 +1,1 @@
-Number of protons passing the three sigma cut: 0
-Number of +kaons passing the three sigma cut: 59647.0
-Number of -kaons passing the three sigma cut: 0
-Percentage of protons passing the three sigma cut: 0
-Percentage of +kaons passing the three sigma cut: 83.8174332167
-Percentage of -kaons passing the three sigma cut: 0.0
+
